@@ -4,6 +4,10 @@ A Retrieval-Augmented Generation (RAG) chatbot built using a **custom fine-tuned
 
 ---
 
+## Project Screenshot
+
+![Project Screenshot](screenshot.png)
+
 ## 🚀 Features
 
 - ✅ Fine-tuned **Microsoft Phi-2 (2.7B)** using **QLoRA**
